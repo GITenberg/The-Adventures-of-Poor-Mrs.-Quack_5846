@@ -1,0 +1,33 @@
+_repo: The-Adventures-of-Poor-Mrs.-Quack_5846
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Burgess, Thornton W. (Thornton Waldo)
+    alias: Burgess, Thornton Waldo
+    birthdate: 1874
+    deathdate: 1965
+    gutenberg_agent_id: '717'
+    url: http://www.gutenberg.org/2009/agents/717
+    wikipedia: http://en.wikipedia.org/wiki/Thornton_Burgess
+description: 20 stories about the duck couple, Mr. and Mrs. Quack and their animal
+  friends, who live in Smiling Pool, and their adventures outwitting the hunters who
+  hunt them.
+gutenberg_bookshelf:
+- Children's Literature
+- Children's Book Series
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5846'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ducks -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Hunting -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The Adventures of Poor Mrs. Quack
+url: http://www.gutenberg.org/ebooks/5846
